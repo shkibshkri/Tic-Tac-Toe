@@ -1,0 +1,23 @@
+table caption
+{
+    color: cornflowerblue;
+}
+
+table, tr, td
+{
+    border: 1px solid black;
+    border-collapse: collapse;
+    width: 100px;
+    height: 30px;
+    background-color: lightblue;
+}
+
+.reset 
+{
+    margin: 10px 2%;
+}
+
+.movementStyle:hover
+{
+    background-color: rgb(172, 172, 172);
+}
